@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🔭 &nbsp;I like to explore new technologies.\
 🎓 &nbsp;I'm currently studying Software Engineering at CIISA in Satiago, Chile.\
 🌱 &nbsp;I'm learning about iOS/Apple development by self-taught. I am also dabbling in Blockchain technologies.\
-✍️ &nbsp;In my free time, I code some stuff to add in my portfolio, or I draw some things as a hobby.\
+✍️ &nbsp;In my free time, I code some stuff to add to my portfolio, or I learn new things to complement with development, like UI, UX, etc.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 📫 &nbsp;You can shoot me an email at aguilar.campos.jacob@gmail.com! I'll try to respond as soon as I can.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
