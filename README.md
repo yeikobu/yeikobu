@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🎓 &nbsp;I'm currently studying Software Engineering at CIISA in Satiago, Chile.\
 🌱 &nbsp;I'm learning about iOS/Apple development by self-taught. I am also dabbling in Blockchain technologies.\
 ✍️ &nbsp;In my free time, I code some stuff to add to my portfolio, or I learn new things to complement with development, like UI, UX, etc.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me.\
 📫 &nbsp;You can shoot me an email at aguilar.campos.jacob@gmail.com! I'll try to respond as soon as I can.
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)&nbsp;
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-333333?style=flat&logo=Apple)&nbsp;
 ![XCode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode)&nbsp;\
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript&logoColor=FFA518)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
