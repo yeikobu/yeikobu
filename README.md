@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 🔭 &nbsp;I like to explore new technologies.\
-🎓 &nbsp;I'm currently studying Software Engineering at CIISA in Satiago, Chile.\
-🌱 &nbsp;I'm learning about iOS/Apple development by self-taught. I am also dabbling in Blockchain technologies.\
-✍️ &nbsp;In my free time, I code some stuff to add to my portfolio, or I learn new things to complement with development, like UI, UX, etc.\
+🎓 &nbsp;I'm currently studying on [Platzi](https://platzi.com/r/j-kobu).\
+🌱 &nbsp;I'm learning about iOS/Apple development by self-taught. I am also dabbling in Blockchain and Web development technologies.\
 💬 &nbsp;Feel free to reach out to me.\
 📫 &nbsp;You can shoot me an email at aguilar.campos.jacob@gmail.com! I'll try to respond as soon as I can.
-<!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -31,10 +29,13 @@ Here are some ideas to get you started:
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-333333?style=flat&logo=Apple)&nbsp;
 ![XCode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode)&nbsp;\
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript&logoColor=FFA518)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)&nbsp;
+![React](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode&logoColor=007ACC)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
