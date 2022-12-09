@@ -1,7 +1,7 @@
 ### Hi there! I'm Jacob 👋
 
 <!--
-**J-kobu/J-kobu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yeikobu/yeikobu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ### 📊 &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/J-kobu/">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=J-kobu&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J-kobu&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+<a href="https://github.com/yeikobu/">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yeikobu&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yeikobu&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
 
