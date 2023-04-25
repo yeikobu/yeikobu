@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 🔭 &nbsp;I like to explore new technologies.\
-🎓 &nbsp;I'm currently studying on [Platzi](https://platzi.com/r/j-kobu).\
-🌱 &nbsp;I'm learning about iOS/Apple development by self-taught. I am also dabbling in Blockchain and Web development technologies.\
+🌱 &nbsp;I'm completely focused on studying iOS Development with SwiftUI.\
+✔ &nbsp;I Also have some knowledge on Web development and Android development.\
 💬 &nbsp;Feel free to reach out to me.\
 📫 &nbsp;You can shoot me an email at aguilar.campos.jacob@gmail.com!
 
@@ -27,12 +27,13 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)&nbsp;
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-333333?style=flat&logo=Apple)&nbsp;
-![XCode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode)&nbsp;\
+![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode)&nbsp;\
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript&logoColor=FFA518)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)&nbsp;
+![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-333333?style=flat&logo=JetpackCompose)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)&nbsp;
-![React](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)&nbsp;
@@ -58,7 +59,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://aguilarjacob.com"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jacob-aguilar-campos-4b3406a4"><img src="https://img.shields.io/badge/-Jacob%20Aguilar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:contact@aguilarjacob.com"><img src="https://img.shields.io/badge/-contact@aguilarjacob.com-e00303?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/dev.swift.jacob/"><img src="https://img.shields.io/badge/-@dev.mobile.jacob-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jacob-aguilar-campos-4b3406a4"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:aguilar.campos.jacob@gmail.com"><img src="https://img.shields.io/badge/-mail-e00303?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/yeikobu/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
