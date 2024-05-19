@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 ### 👨🏻‍💻 &nbsp;About Me
 
 🔭 &nbsp;I like to explore new technologies.\
-🌱 &nbsp;I'm completely focused on studying iOS Development with SwiftUI.\
-✔ &nbsp;I Also have some knowledge on Web development and Android development.\
-💬 &nbsp;Feel free to reach out to me.\
+👨🏻‍🎓 &nbsp;I'm a Software Engineer Student.\
+🌱 &nbsp;Currenty building apps with Swift.\
+✨ &nbsp;I love building things. So I learn everything I need to to achieve my goals.\
+👉🏻 &nbsp;I'd love for you to try out my first App available on the [App Store](https://apps.apple.com/us/app/prend/id1672119135) and let me know what you think 🫶🏻.\
+💬 &nbsp;Feel free reach out to me.\
 📫 &nbsp;You can shoot me an email at aguilar.campos.jacob@gmail.com!
 
 
@@ -33,16 +35,18 @@ Here are some ideas to get you started:
 ![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-333333?style=flat&logo=JetpackCompose)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)&nbsp;
+![AstroJS](https://img.shields.io/badge/-AstroJS-333333?style=flat&logo=Astro)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode&logoColor=007ACC)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)&nbsp;
 ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)&nbsp;
-
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 
 
 
