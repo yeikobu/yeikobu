@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 🌱 &nbsp;Currenty building apps with Swift.\
 ✨ &nbsp;I love building things. So I learn everything I need to to achieve my goals.\
 👉🏻 &nbsp;I'd love for you to try out my first App available on the [App Store](https://apps.apple.com/us/app/prend/id1672119135) and let me know what you think 🫶🏻.\
+🤩 &nbsp;Contributing to the [Dragon Ball wiki](https://apps.apple.com/us/app/prend/id1672119135) project.\
 💬 &nbsp;Feel free reach out to me.\
 📫 &nbsp;You can shoot me an email at aguilar.campos.jacob@gmail.com!
 
