@@ -27,25 +27,15 @@ Here are some ideas to get you started:
 📫 &nbsp;You can shoot me an email at aguilar.campos.jacob@gmail.com!
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Main Tech Stack
 ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)&nbsp;
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-333333?style=flat&logo=Apple)&nbsp;
 ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode)&nbsp;\
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=CoffeeScript&logoColor=FFA518)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)&nbsp;
-![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-333333?style=flat&logo=JetpackCompose)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=AndroidStudio)&nbsp;\
-![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)&nbsp;
 ![AstroJS](https://img.shields.io/badge/-AstroJS-333333?style=flat&logo=Astro)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=VisualStudioCode&logoColor=007ACC)&nbsp;\
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)&nbsp;\
 ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;\
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 
